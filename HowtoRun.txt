@@ -1,0 +1,13 @@
+Requirements:
+(1) Python 3.8
+(2) Anaconda 3
+(3) Tensorflow 2.6.0
+
+You will need to run the files in the following order for each model:
+(1) Variables.py
+(2) data.py
+(3) training_validation_sample.py
+(4) model.py
+(5) genaretor.py
+(6) training.py
+(7) PPL.py 
